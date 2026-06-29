@@ -37,3 +37,9 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+### Expo / React Native ###
+pdf-translator-app/node_modules/
+pdf-translator-app/.expo/
+pdf-translator-app/.env
+pdf-translator-app/dist/
